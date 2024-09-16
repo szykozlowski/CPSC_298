@@ -1,4 +1,5 @@
 # CPSC_298
+# Szymon Kozlowski
 ## Using Large Language Models for Coding Assistance
 
 ### Lectures
