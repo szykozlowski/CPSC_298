@@ -15,6 +15,7 @@
 - Did not assign you an Open AI key if CSV is not updated and do not see PRs; I review the [#continuous integration channel on Discord](https://discord.com/channels/1204850325748457543/1204856923149697045)
 - Check postings on CSV file for accuracy; will not receive grades unless all tasks are completed
 - Make sure your CI notifications are proper
+- Review Grades/CSV
 
 ## Where Everyone Should Be Revisited:
 - Discord Notifications with Webhook (DM me if you need the hook; Look in Discord help channel for Webhooks)
