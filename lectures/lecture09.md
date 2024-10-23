@@ -16,6 +16,7 @@
 - Check postings on CSV file for accuracy; will not receive grades unless all tasks are completed
 - Make sure your CI notifications are proper
 - Review Grades/CSV
+- Docking now at 10% per week
 
 ## Where Everyone Should Be Revisited:
 - Discord Notifications with Webhook (DM me if you need the hook; Look in Discord help channel for Webhooks)
