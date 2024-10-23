@@ -4,8 +4,9 @@ from dotenv import load_dotenv
 import csv
 import json
 
+load_dotenv()
+
 def get_github_api_token():
-    load_dotenv()
     return os.getenv('GITHUB_API_TOKEN')
 
 def get_pull_requests(github_handle):
