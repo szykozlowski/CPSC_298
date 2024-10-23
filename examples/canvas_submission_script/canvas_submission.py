@@ -27,6 +27,7 @@ def get_pull_requests(github_handle):
         pull_requests.extend(pulls)
     
     return pull_requests
+def get_canvas_api_token():
     return os.getenv('CANVAS_API_TOKEN')
 
 def get_canvas_domain():
@@ -100,6 +101,13 @@ def check_github_pull_requests():
                         print(f"- {pr['title']} in {pr['html_url']}")
                 else:
                     print(f"No pull requests found for {github_handle}.")
+    api_token = get_canvas_api_token()
+    domain = get_canvas_domain()
+    if not api_token or not domain:
+        raise EnvironmentError("CANVAS_API_TOKEN or CANVAS_DOMAIN environment variable not set.")
+    
+    courses = get_courses(api_token, domain)
+def main():
     api_token = get_canvas_api_token()
     domain = get_canvas_domain()
     if not api_token or not domain:
