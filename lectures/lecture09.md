@@ -2,7 +2,7 @@
 
 ## Housekeeping
 - Week in World of AI
-    * [$500M+ AI Agent -- ](https://youtu.be/EKspo1FLj-4?si=V84g5YbiOTM9BFfu)
+    * [$500M+ AI Agent -- Terminal of Truth](https://youtu.be/EKspo1FLj-4?si=V84g5YbiOTM9BFfu)
     * [Anthropic Agents](https://youtu.be/xr0FCUNoy_0?si=NUFjV0FJQ87CnVYB) [& Control](https://youtu.be/idipaHSpQes?si=05Gax-A6t_TbaZFN)
     * [o1 vs. 4o](https://youtu.be/rVjANY9UC9s?si=3DXay1ovZXzcRum8)
     * [New Mac AI Coding tool](https://www.youtube.com/live/ikn7JSUflTI?si=cut1HjdZ7SWP50eU)
