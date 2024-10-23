@@ -1,7 +1,10 @@
 import os
 import requests
+from dotenv import load_dotenv
 import csv
 import json
+
+load_dotenv()
 
 def get_github_api_token():
     return os.getenv('GITHUB_API_TOKEN')
