@@ -5,7 +5,7 @@
     * [AGI Concerns](https://youtu.be/teiFPBCbgIc?si=lKAn8G3ZZF7TXzym)
     * [Agent Notebooks](https://youtu.be/jKYINg2z3HU?si=EBP5QyzTc3S-DYm4)
     * [n8n Take Off](https://youtu.be/c0Dqnd4HU8w?si=OT7q7zNoUx9dAb5Z)
-    * [More on GOAT & Terminal of Truth]()
+    * [More on GOAT & Terminal of Truth](https://youtu.be/Rp-EILOvp7I?si=Zr3KFW5KB6bw8RkG)
 - Delayed quiz due date b/c of Halloween Parties
 - Reminder Check Canvas for grading; Still grading last 2 assignments
 - Remember to `git pull upstream master && git push`
